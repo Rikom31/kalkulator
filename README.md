@@ -1,0 +1,2 @@
+# kalkulator
+SC kalkulator python
